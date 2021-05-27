@@ -1,0 +1,13 @@
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\bin\Debug\netcoreapp3.1\FinalProject_CSharp.exe
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\bin\Debug\netcoreapp3.1\FinalProject_CSharp.deps.json
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\bin\Debug\netcoreapp3.1\FinalProject_CSharp.runtimeconfig.json
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\bin\Debug\netcoreapp3.1\FinalProject_CSharp.runtimeconfig.dev.json
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\bin\Debug\netcoreapp3.1\FinalProject_CSharp.dll
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\bin\Debug\netcoreapp3.1\FinalProject_CSharp.pdb
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\obj\Debug\netcoreapp3.1\FinalProject_CSharp.csprojAssemblyReference.cache
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\obj\Debug\netcoreapp3.1\FinalProject_CSharp.AssemblyInfoInputs.cache
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\obj\Debug\netcoreapp3.1\FinalProject_CSharp.AssemblyInfo.cs
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\obj\Debug\netcoreapp3.1\FinalProject_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\obj\Debug\netcoreapp3.1\FinalProject_CSharp.dll
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\obj\Debug\netcoreapp3.1\FinalProject_CSharp.pdb
+C:\Users\shath\source\repos\FinalProject_CSharp\FinalProject_CSharp\obj\Debug\netcoreapp3.1\FinalProject_CSharp.genruntimeconfig.cache
